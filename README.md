@@ -1,3 +1,7 @@
+## GitTrend
+
+![GitTrend](https://i.imgur.com/4tAxagB.png)
+
 This is an application for viewing GitHub repos created in the last 7 days, sorted by stars
 
 ## Getting Started
